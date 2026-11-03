@@ -1,0 +1,48 @@
+name: Update newsletter archive
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # every day at 06:00 UTC
+  workflow_dispatch: # allows running it by hand from the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-archive
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download new newsletters from MailerLite
+        env:
+          MAILERLITE_TOKEN: ${{ secrets.MAILERLITE_TOKEN }}
+        run: python3 tools/export_newsletters.py --only-new --out "$RUNNER_TEMP/export"
+
+      - name: Add them to the archive
+        run: python3 tools/build_archive.py --export "$RUNNER_TEMP/export"
+
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new newsletters."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Add new newsletters"
+          git push
+          # Pushes made with the workflow token don't always trigger a Pages build, so request one.
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

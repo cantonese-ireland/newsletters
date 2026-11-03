@@ -1,0 +1,856 @@
+[
+  {
+    "id": "202879247366227569",
+    "date": "2026-10-31",
+    "subject": "CII Newsletter - Oct 2026",
+    "status": "sent",
+    "file": "2026-10-31-cii-newsletter-oct-2026-202879247366227569.html"
+  },
+  {
+    "id": "198701274942670023",
+    "date": "2026-09-15",
+    "subject": "Lantern-making Workshop & more...🏮",
+    "status": "sent",
+    "file": "2026-09-15-lantern-making-workshop-more-198701274942670023.html"
+  },
+  {
+    "id": "196433525301314855",
+    "date": "2026-09-05",
+    "subject": "CII Newsletter - Sept 2026",
+    "status": "sent",
+    "file": "2026-09-05-cii-newsletter-sept-2026-196433525301314855.html"
+  },
+  {
+    "id": "197385730473853981",
+    "date": "2026-09-01",
+    "subject": "FREE Online Cantonese Storytelling (5 Sept 11-11.40am)",
+    "status": "sent",
+    "file": "2026-09-01-free-online-cantonese-storytelling-5-sept-11-1140am-197385730473853981.html"
+  },
+  {
+    "id": "190549242883868075",
+    "date": "2026-06-23",
+    "subject": "CII Newsletter - June 2026",
+    "status": "sent",
+    "file": "2026-06-23-cii-newsletter-june-2026-190549242883868075.html"
+  },
+  {
+    "id": "189537559965074759",
+    "date": "2026-06-06",
+    "subject": "HK Movie & Dragon Boat!!",
+    "status": "sent",
+    "file": "2026-06-06-hk-movie-dragon-boat-189537559965074759.html"
+  },
+  {
+    "id": "189185460531103725",
+    "date": "2026-06-02",
+    "subject": "FREE Online Cantonese Storytelling (6 June 11-11.40am)",
+    "status": "sent",
+    "file": "2026-06-02-free-online-cantonese-storytelling-6-june-11-1140am-189185460531103725.html"
+  },
+  {
+    "id": "186711906735621959",
+    "date": "2026-05-06",
+    "subject": "CII Newsletter - May 2026",
+    "status": "sent",
+    "file": "2026-05-06-cii-newsletter-may-2026-186711906735621959.html"
+  },
+  {
+    "id": "183986929085187784",
+    "date": "2026-04-14",
+    "subject": "CII Newsletter - April",
+    "status": "sent",
+    "file": "2026-04-14-cii-newsletter-april-183986929085187784.html"
+  },
+  {
+    "id": "184547487265064356",
+    "date": "2026-04-13",
+    "subject": "FREE Online Cantonese Storytelling (18 April 11-11.40am)",
+    "status": "sent",
+    "file": "2026-04-13-free-online-cantonese-storytelling-18-april-11-1140am-184547487265064356.html"
+  },
+  {
+    "id": "181590450271946407",
+    "date": "2026-03-14",
+    "subject": "CII Newsletter - March",
+    "status": "sent",
+    "file": "2026-03-14-cii-newsletter-march-181590450271946407.html"
+  },
+  {
+    "id": "179415290434552905",
+    "date": "2026-02-17",
+    "subject": "Newsletter February 2026 🧧🧨🥟",
+    "status": "sent",
+    "file": "2026-02-17-newsletter-february-2026-179415290434552905.html"
+  },
+  {
+    "id": "178000170280027624",
+    "date": "2026-01-30",
+    "subject": "CII Newsletter- January",
+    "status": "sent",
+    "file": "2026-01-30-cii-newsletter-january-178000170280027624.html"
+  },
+  {
+    "id": "174779038704862808",
+    "date": "2025-12-25",
+    "subject": "Hong Kong Film on Cinema! WIN 1 FREE TICKET!",
+    "status": "sent",
+    "file": "2025-12-25-hong-kong-film-on-cinema-win-1-free-ticket-174779038704862808.html"
+  },
+  {
+    "id": "174616499993970244",
+    "date": "2025-12-24",
+    "subject": "CII Newsletter-Happy Christmas聖誕快樂！",
+    "status": "sent",
+    "file": "2025-12-24-cii-newsletter-happy-christmas聖誕快樂-174616499993970244.html"
+  },
+  {
+    "id": "172707935452923510",
+    "date": "2025-12-03",
+    "subject": "FREE Online Cantonese Storytelling (6 December 11-11.40am)",
+    "status": "sent",
+    "file": "2025-12-03-free-online-cantonese-storytelling-6-december-11-1140am-172707935452923510.html"
+  },
+  {
+    "id": "171545213288842296",
+    "date": "2025-11-28",
+    "subject": "CII Newsletter- november",
+    "status": "sent",
+    "file": "2025-11-28-cii-newsletter-november-171545213288842296.html"
+  },
+  {
+    "id": "169761412017554956",
+    "date": "2025-10-31",
+    "subject": "CII Newsletter- October",
+    "status": "sent",
+    "file": "2025-10-31-cii-newsletter-october-169761412017554956.html"
+  },
+  {
+    "id": "166997367210378745",
+    "date": "2025-10-02",
+    "subject": "FREE Online Cantonese Storytelling (4 October 11-11.40am)",
+    "status": "sent",
+    "file": "2025-10-02-free-online-cantonese-storytelling-4-october-11-1140am-166997367210378745.html"
+  },
+  {
+    "id": "164540998507038185",
+    "date": "2025-09-12",
+    "subject": "CII Newsletter- September",
+    "status": "sent",
+    "file": "2025-09-12-cii-newsletter-september-164540998507038185.html"
+  },
+  {
+    "id": "164142476560434980",
+    "date": "2025-08-30",
+    "subject": "Cantonese Writing for Kids - from voice to stories",
+    "status": "sent",
+    "file": "2025-08-30-cantonese-writing-for-kids-from-voice-to-stories-164142476560434980.html"
+  },
+  {
+    "id": "160919592499152280",
+    "date": "2025-07-25",
+    "subject": "CII Newsletter- July",
+    "status": "sent",
+    "file": "2025-07-25-cii-newsletter-july-160919592499152280.html"
+  },
+  {
+    "id": "157747018186359844",
+    "date": "2025-06-20",
+    "subject": "Hong Kong Film on Cinema!",
+    "status": "sent",
+    "file": "2025-06-20-hong-kong-film-on-cinema-157747018186359844.html"
+  },
+  {
+    "id": "156902920933082346",
+    "date": "2025-06-12",
+    "subject": "CII Newsletter- June",
+    "status": "sent",
+    "file": "2025-06-12-cii-newsletter-june-156902920933082346.html"
+  },
+  {
+    "id": "156545574106040059",
+    "date": "2025-06-09",
+    "subject": "FREE Online Cantonese Storytelling (14 June 11-11.40am)",
+    "status": "sent",
+    "file": "2025-06-09-free-online-cantonese-storytelling-14-june-11-1140am-156545574106040059.html"
+  },
+  {
+    "id": "155019308293949411",
+    "date": "2025-05-22",
+    "subject": "CII Newsletter- May",
+    "status": "sent",
+    "file": "2025-05-22-cii-newsletter-may-155019308293949411.html"
+  },
+  {
+    "id": "154125993663005704",
+    "date": "2025-05-12",
+    "subject": "FREE Online Cantonese Storytelling (17 May 11-11.40am)",
+    "status": "sent",
+    "file": "2025-05-12-free-online-cantonese-storytelling-17-may-11-1140am-154125993663005704.html"
+  },
+  {
+    "id": "153124782346339339",
+    "date": "2025-04-30",
+    "subject": "CII Newsletter- April",
+    "status": "sent",
+    "file": "2025-04-30-cii-newsletter-april-153124782346339339.html"
+  },
+  {
+    "id": "152673244815558196",
+    "date": "2025-04-25",
+    "subject": "FREE Cantonese Writing Workshop TOMORROW!",
+    "status": "sent",
+    "file": "2025-04-25-free-cantonese-writing-workshop-tomorrow-152673244815558196.html"
+  },
+  {
+    "id": "150589146371458635",
+    "date": "2025-04-03",
+    "subject": "FREE Online Cantonese Storytelling (5 Apr 11-11.40am)",
+    "status": "sent",
+    "file": "2025-04-03-free-online-cantonese-storytelling-5-apr-11-1140am-150589146371458635.html"
+  },
+  {
+    "id": "150549637004003136",
+    "date": "2025-04-02",
+    "subject": "Dragon Boat Race - Please help ✍️",
+    "status": "sent",
+    "file": "2025-04-02-dragon-boat-race-please-help-150549637004003136.html"
+  },
+  {
+    "id": "148966614645081282",
+    "date": "2025-03-28",
+    "subject": "CII Newsletter-March",
+    "status": "sent",
+    "file": "2025-03-28-cii-newsletter-march-148966614645081282.html"
+  },
+  {
+    "id": "147470023210828800",
+    "date": "2025-02-27",
+    "subject": "CII Newsletter-February: Movies & more!",
+    "status": "sent",
+    "file": "2025-02-27-cii-newsletter-february-movies-more-147470023210828800.html"
+  },
+  {
+    "id": "147246059282760797",
+    "date": "2025-02-24",
+    "subject": "FREE online Cantonese Storytelling (1 Mar  11-11.40am)",
+    "status": "sent",
+    "file": "2025-02-24-free-online-cantonese-storytelling-1-mar-11-1140am-147246059282760797.html"
+  },
+  {
+    "id": "144117133977060436",
+    "date": "2025-01-21",
+    "subject": "DNLY: Bilingual Storytelling in Canto & Eng (25 Jan)",
+    "status": "sent",
+    "file": "2025-01-21-dnly-bilingual-storytelling-in-canto-eng-25-jan-144117133977060436.html"
+  },
+  {
+    "id": "143217066903603119",
+    "date": "2025-01-21",
+    "subject": "Newsletter February 2025 🧧🧨🥟",
+    "status": "sent",
+    "file": "2025-01-21-newsletter-february-2025-143217066903603119.html"
+  },
+  {
+    "id": "141984047176877135",
+    "date": "2024-12-30",
+    "subject": "FREE online Cantonese Storytelling (4 Jan  11-11.40am)",
+    "status": "sent",
+    "file": "2024-12-30-free-online-cantonese-storytelling-4-jan-11-1140am-141984047176877135.html"
+  },
+  {
+    "id": "140859540929250779",
+    "date": "2024-12-16",
+    "subject": "The Last Dance in Cork!",
+    "status": "sent",
+    "file": "2024-12-16-the-last-dance-in-cork-140859540929250779.html"
+  },
+  {
+    "id": "139500902555846104",
+    "date": "2024-12-05",
+    "subject": "Happy Christmas ❄️ Our Year Review 📑",
+    "status": "sent",
+    "file": "2024-12-05-happy-christmas-our-year-review-139500902555846104.html"
+  },
+  {
+    "id": "139518378067887237",
+    "date": "2024-12-03",
+    "subject": "FREE online Cantonese Storytelling (7 Dec  11-11.40am)",
+    "status": "sent",
+    "file": "2024-12-03-free-online-cantonese-storytelling-7-dec-11-1140am-139518378067887237.html"
+  },
+  {
+    "id": "138413134992901764",
+    "date": "2024-11-19",
+    "subject": "Cantonese movie 'The Last Dance' still on Irish cinemas",
+    "status": "sent",
+    "file": "2024-11-19-cantonese-movie-the-last-dance-still-on-irish-cinemas-138413134992901764.html"
+  },
+  {
+    "id": "137868495904835306",
+    "date": "2024-11-13",
+    "subject": "It's on cinema: Cantonese movie 'The Last Dance'",
+    "status": "sent",
+    "file": "2024-11-13-its-on-cinema-cantonese-movie-the-last-dance-137868495904835306.html"
+  },
+  {
+    "id": "136450519994467664",
+    "date": "2024-11-04",
+    "subject": "Cantonese in Ireland Newsletter - November 🍂",
+    "status": "sent",
+    "file": "2024-11-04-cantonese-in-ireland-newsletter-november-136450519994467664.html"
+  },
+  {
+    "id": "136452662592800361",
+    "date": "2024-10-28",
+    "subject": "FREE online Cantonese Storytelling (2 Nov  11-11.40am)",
+    "status": "sent",
+    "file": "2024-10-28-free-online-cantonese-storytelling-2-nov-11-1140am-136452662592800361.html"
+  },
+  {
+    "id": "135923225425086040",
+    "date": "2024-10-23",
+    "subject": "FREE online Cantonese Storytelling (2 Nov  11-11.40am)",
+    "status": "sent",
+    "file": "2024-10-23-free-online-cantonese-storytelling-2-nov-11-1140am-135923225425086040.html"
+  },
+  {
+    "id": "133968021809005650",
+    "date": "2024-10-01",
+    "subject": "FREE online Cantonese Storytelling (5 Oct  11-11.40am)",
+    "status": "sent",
+    "file": "2024-10-01-free-online-cantonese-storytelling-5-oct-11-1140am-133968021809005650.html"
+  },
+  {
+    "id": "133420680364426937",
+    "date": "2024-09-27",
+    "subject": "Cantonese in Ireland Newsletter - October",
+    "status": "sent",
+    "file": "2024-09-27-cantonese-in-ireland-newsletter-october-133420680364426937.html"
+  },
+  {
+    "id": "127556041825060726",
+    "date": "2024-09-16",
+    "subject": "Cantonese in Ireland Newsletter - Sept 🍁",
+    "status": "sent",
+    "file": "2024-09-16-cantonese-in-ireland-newsletter-sept-127556041825060726.html"
+  },
+  {
+    "id": "131485130370843981",
+    "date": "2024-09-04",
+    "subject": "FREE online Cantonese Storytelling (7 Sept  11-11.40am)",
+    "status": "sent",
+    "file": "2024-09-04-free-online-cantonese-storytelling-7-sept-11-1140am-131485130370843981.html"
+  },
+  {
+    "id": "127927476167903144",
+    "date": "2024-07-26",
+    "subject": "RECRUITMENT: Cantonese Immigrants Focus Group 🤓",
+    "status": "sent",
+    "file": "2024-07-26-recruitment-cantonese-immigrants-focus-group-127927476167903144.html"
+  },
+  {
+    "id": "123771551643337777",
+    "date": "2024-06-10",
+    "subject": "FREE online Cantonese Storytelling (15 Jun 11-11.40am)",
+    "status": "sent",
+    "file": "2024-06-10-free-online-cantonese-storytelling-15-jun-11-1140am-123771551643337777.html"
+  },
+  {
+    "id": "123552807960708930",
+    "date": "2024-06-08",
+    "subject": "Good news! 💫 And more events!",
+    "status": "sent",
+    "file": "2024-06-08-good-news-and-more-events-123552807960708930.html"
+  },
+  {
+    "id": "123124127892505639",
+    "date": "2024-06-04",
+    "subject": "Cantonese in Ireland Newsletter - June 🐲",
+    "status": "sent",
+    "file": "2024-06-04-cantonese-in-ireland-newsletter-june-123124127892505639.html"
+  },
+  {
+    "id": "121651294749329084",
+    "date": "2024-05-18",
+    "subject": "Cantonese in Ireland Newsletter - May",
+    "status": "sent",
+    "file": "2024-05-18-cantonese-in-ireland-newsletter-may-121651294749329084.html"
+  },
+  {
+    "id": "121323197088925512",
+    "date": "2024-05-14",
+    "subject": "FREE online Cantonese Storytelling (18 May 11-11.40am)",
+    "status": "sent",
+    "file": "2024-05-14-free-online-cantonese-storytelling-18-may-11-1140am-121323197088925512.html"
+  },
+  {
+    "id": "118381817299469552",
+    "date": "2024-04-12",
+    "subject": "FREE Cantonese movie ticket! (We12) 🎥",
+    "status": "sent",
+    "file": "2024-04-12-free-cantonese-movie-ticket-we12-118381817299469552.html"
+  },
+  {
+    "id": "117590030681114230",
+    "date": "2024-04-03",
+    "subject": "FREE online Cantonese Storytelling (6 April 11-11.40am)",
+    "status": "sent",
+    "file": "2024-04-03-free-online-cantonese-storytelling-6-april-11-1140am-117590030681114230.html"
+  },
+  {
+    "id": "117055681433962416",
+    "date": "2024-04-03",
+    "subject": "Cantonese in Ireland Newsletter - April",
+    "status": "sent",
+    "file": "2024-04-03-cantonese-in-ireland-newsletter-april-117055681433962416.html"
+  },
+  {
+    "id": "115761420250908095",
+    "date": "2024-03-14",
+    "subject": "Happy St. Patrick's Day!",
+    "status": "sent",
+    "file": "2024-03-14-happy-st-patricks-day-115761420250908095.html"
+  },
+  {
+    "id": "114405273794250173",
+    "date": "2024-02-28",
+    "subject": "FREE online Cantonese Storytelling (2 Mar)",
+    "status": "sent",
+    "file": "2024-02-28-free-online-cantonese-storytelling-2-mar-114405273794250173.html"
+  },
+  {
+    "id": "113947653712119595",
+    "date": "2024-02-23",
+    "subject": "FREE Cantonese film tickets & more!",
+    "status": "sent",
+    "file": "2024-02-23-free-cantonese-film-tickets-more-113947653712119595.html"
+  },
+  {
+    "id": "112646891726964167",
+    "date": "2024-02-09",
+    "subject": "MORE Lunar New Year events 🧧🧨🥟",
+    "status": "sent",
+    "file": "2024-02-09-more-lunar-new-year-events-112646891726964167.html"
+  },
+  {
+    "id": "111867529642641281",
+    "date": "2024-01-31",
+    "subject": "Lunar New Year Cantonese Storytelling (3 Feb)",
+    "status": "sent",
+    "file": "2024-01-31-lunar-new-year-cantonese-storytelling-3-feb-111867529642641281.html"
+  },
+  {
+    "id": "111466611358041267",
+    "date": "2024-01-26",
+    "subject": "Newsletter February 2024 🧧🧨🥟",
+    "status": "sent",
+    "file": "2024-01-26-newsletter-february-2024-111466611358041267.html"
+  },
+  {
+    "id": "111270205278127638",
+    "date": "2024-01-26",
+    "subject": "Newsletter February 2024 🧧🧨🥟",
+    "status": "sent",
+    "file": "2024-01-26-newsletter-february-2024-111270205278127638.html"
+  },
+  {
+    "id": "109450486816442244",
+    "date": "2024-01-04",
+    "subject": "Resend with correct link: Upcoming Cantonese Storytelling (6 Jan)",
+    "status": "sent",
+    "file": "2024-01-04-resend-with-correct-link-upcoming-cantonese-storytelling-6-j-109450486816442244.html"
+  },
+  {
+    "id": "109449825861240664",
+    "date": "2024-01-04",
+    "subject": "Upcoming Cantonese Storytelling (6 Jan)",
+    "status": "sent",
+    "file": "2024-01-04-upcoming-cantonese-storytelling-6-jan-109449825861240664.html"
+  },
+  {
+    "id": "108700444506720051",
+    "date": "2023-12-27",
+    "subject": "Movie Coffee Meetup - the Goldenfinger",
+    "status": "sent",
+    "file": "2023-12-27-movie-coffee-meetup-the-goldenfinger-108700444506720051.html"
+  },
+  {
+    "id": "108443440133440682",
+    "date": "2023-12-25",
+    "subject": "Happy Christmas ❄️ A chance to win a movie ticket 🌟",
+    "status": "sent",
+    "file": "2023-12-25-happy-christmas-a-chance-to-win-a-movie-ticket-108443440133440682.html"
+  },
+  {
+    "id": "106025176416650289",
+    "date": "2023-11-28",
+    "subject": "Upcoming Cantonese Storytelling (2 Dec): Blizzard🧸",
+    "status": "sent",
+    "file": "2023-11-28-upcoming-cantonese-storytelling-2-dec-blizzard-106025176416650289.html"
+  },
+  {
+    "id": "105725104476915478",
+    "date": "2023-11-27",
+    "subject": "Cantonese in Ireland Newsletter - December ❄️",
+    "status": "sent",
+    "file": "2023-11-27-cantonese-in-ireland-newsletter-december-105725104476915478.html"
+  },
+  {
+    "id": "105755936909427859",
+    "date": "2023-11-24",
+    "subject": "Making Waves Hong Kong Seasons: 20% Discount",
+    "status": "sent",
+    "file": "2023-11-24-making-waves-hong-kong-seasons-20-discount-105755936909427859.html"
+  },
+  {
+    "id": "103620165136025119",
+    "date": "2023-11-01",
+    "subject": "Upcoming Cantonese Storytelling (4 Nov): The Leaves Conductor 🍁",
+    "status": "sent",
+    "file": "2023-11-01-upcoming-cantonese-storytelling-4-nov-the-leaves-conductor-103620165136025119.html"
+  },
+  {
+    "id": "103108771359753275",
+    "date": "2023-11-01",
+    "subject": "Cantonese in Ireland Newsletter - November 🖐️",
+    "status": "sent",
+    "file": "2023-11-01-cantonese-in-ireland-newsletter-november-103108771359753275.html"
+  },
+  {
+    "id": "101174484345554806",
+    "date": "2023-10-05",
+    "subject": "Upcoming Cantonese Storytelling (7 Oct): Star Ferry's Secret Journey ⭐",
+    "status": "sent",
+    "file": "2023-10-05-upcoming-cantonese-storytelling-7-oct-star-ferrys-secret-jou-101174484345554806.html"
+  },
+  {
+    "id": "97825415417038424",
+    "date": "2023-08-29",
+    "subject": "Upcoming Cantonese Storytelling (2 Sept): I want to keep a tiger 🐯",
+    "status": "sent",
+    "file": "2023-08-29-upcoming-cantonese-storytelling-2-sept-i-want-to-keep-a-tige-97825415417038424.html"
+  },
+  {
+    "id": "97097426348803363",
+    "date": "2023-08-21",
+    "subject": "Cantonese in Ireland Newsletter - August🖐️",
+    "status": "sent",
+    "file": "2023-08-21-cantonese-in-ireland-newsletter-august-97097426348803363.html"
+  },
+  {
+    "id": "91992404521911519",
+    "date": "2023-06-26",
+    "subject": "Opportunity: 2 Project Managers Needed",
+    "status": "sent",
+    "file": "2023-06-26-opportunity-2-project-managers-needed-91992404521911519.html"
+  },
+  {
+    "id": "90989185579616178",
+    "date": "2023-06-14",
+    "subject": "Upcoming Cantonese Storytelling (17 June): Daddy Lost His Head!😬",
+    "status": "sent",
+    "file": "2023-06-14-upcoming-cantonese-storytelling-17-june-daddy-lost-his-head-90989185579616178.html"
+  },
+  {
+    "id": "90327004573861876",
+    "date": "2023-06-08",
+    "subject": "Cantonese in Ireland Newsletter - June 🐲",
+    "status": "sent",
+    "file": "2023-06-08-cantonese-in-ireland-newsletter-june-90327004573861876.html"
+  },
+  {
+    "id": "89710159207597271",
+    "date": "2023-05-31",
+    "subject": "Upcoming Cantonese Storytelling (3 June): Archie Can Climb",
+    "status": "sent",
+    "file": "2023-05-31-upcoming-cantonese-storytelling-3-june-archie-can-climb-89710159207597271.html"
+  },
+  {
+    "id": "88768834634254143",
+    "date": "2023-05-21",
+    "subject": "Opportunities for Cantonese Migrants 💸",
+    "status": "sent",
+    "file": "2023-05-21-opportunities-for-cantonese-migrants-88768834634254143.html"
+  },
+  {
+    "id": "88440549916280162",
+    "date": "2023-05-17",
+    "subject": "Upcoming Cantonese Storytelling (20 May): Wasn't me!",
+    "status": "sent",
+    "file": "2023-05-17-upcoming-cantonese-storytelling-20-may-wasnt-me-88440549916280162.html"
+  },
+  {
+    "id": "87426552313153074",
+    "date": "2023-05-11",
+    "subject": "Cantonese in Ireland Newsletter - May 🐲",
+    "status": "sent",
+    "file": "2023-05-11-cantonese-in-ireland-newsletter-may-87426552313153074.html"
+  },
+  {
+    "id": "87132095482168343",
+    "date": "2023-05-03",
+    "subject": "Upcoming Cantonese Storytelling (6 May): SamSam travelled to Space",
+    "status": "sent",
+    "file": "2023-05-03-upcoming-cantonese-storytelling-6-may-samsam-travelled-to-sp-87132095482168343.html"
+  },
+  {
+    "id": "86587837397337484",
+    "date": "2023-04-27",
+    "subject": "Upcoming Cantonese Storytelling (29 April): Spring is here",
+    "status": "sent",
+    "file": "2023-04-27-upcoming-cantonese-storytelling-29-april-spring-is-here-86587837397337484.html"
+  },
+  {
+    "id": "86364629238809817",
+    "date": "2023-04-25",
+    "subject": "More FREE Cantonese Lessons! 😮😮",
+    "status": "sent",
+    "file": "2023-04-25-more-free-cantonese-lessons-86364629238809817.html"
+  },
+  {
+    "id": "85265609233794254",
+    "date": "2023-04-14",
+    "subject": "Cantonese in Ireland Newsletter - April 🐇🐣💐",
+    "status": "sent",
+    "file": "2023-04-14-cantonese-in-ireland-newsletter-april-85265609233794254.html"
+  },
+  {
+    "id": "85241692574188865",
+    "date": "2023-04-12",
+    "subject": "Upcoming Cantonese Storytelling (15 April): Turtle",
+    "status": "sent",
+    "file": "2023-04-12-upcoming-cantonese-storytelling-15-april-turtle-85241692574188865.html"
+  },
+  {
+    "id": "84554437076452608",
+    "date": "2023-04-04",
+    "subject": "Welcome to our Dragon Boat Race Team",
+    "status": "sent",
+    "file": "2023-04-04-welcome-to-our-dragon-boat-race-team-84554437076452608.html"
+  },
+  {
+    "id": "84516971185439870",
+    "date": "2023-04-04",
+    "subject": "Comhghairdeas! Your graduation details inside! 🧑‍🎓👨‍🎓👩‍🎓",
+    "status": "sent",
+    "file": "2023-04-04-comhghairdeas-your-graduation-details-inside-84516971185439870.html"
+  },
+  {
+    "id": "84015072431572122",
+    "date": "2023-03-29",
+    "subject": "Upcoming Cantonese Storytelling (1 April): Tomb-Sweeping Day",
+    "status": "sent",
+    "file": "2023-03-29-upcoming-cantonese-storytelling-1-april-tomb-sweeping-day-84015072431572122.html"
+  },
+  {
+    "id": "83382874047252313",
+    "date": "2023-03-22",
+    "subject": "Welcome to our Dragon Boat Race Team",
+    "status": "sent",
+    "file": "2023-03-22-welcome-to-our-dragon-boat-race-team-83382874047252313.html"
+  },
+  {
+    "id": "82785932930974737",
+    "date": "2023-03-16",
+    "subject": "Cantonese Storytelling tomorrow (18th Mar): A Story about LOVE",
+    "status": "sent",
+    "file": "2023-03-16-cantonese-storytelling-tomorrow-18th-mar-a-story-about-love-82785932930974737.html"
+  },
+  {
+    "id": "82618574316767053",
+    "date": "2023-03-15",
+    "subject": "突發！毒舌大狀再度加開！Guilty Conscience - more shows added! 😮😮",
+    "status": "sent",
+    "file": "2023-03-15-突發毒舌大狀再度加開guilty-conscience-more-shows-added-82618574316767053.html"
+  },
+  {
+    "id": "81923077008525179",
+    "date": "2023-03-14",
+    "subject": "Cantonese in Ireland Newsletter - March ☘️🇮🇪",
+    "status": "sent",
+    "file": "2023-03-14-cantonese-in-ireland-newsletter-march-81923077008525179.html"
+  },
+  {
+    "id": "82007892207601351",
+    "date": "2023-03-07",
+    "subject": "突發！毒舌大狀隆重登愛爾蘭！Highest-grossing Hong Kong film ever has finally arrived to Ireland！ 🙀🙀",
+    "status": "sent",
+    "file": "2023-03-07-突發毒舌大狀隆重登愛爾蘭highest-grossing-hong-kong-film-ever-has-finally-82007892207601351.html"
+  },
+  {
+    "id": "81482984125891837",
+    "date": "2023-03-01",
+    "subject": "Cantonese Storytelling (4th Mar): How the Crayons Saved the Rainbow",
+    "status": "sent",
+    "file": "2023-03-01-cantonese-storytelling-4th-mar-how-the-crayons-saved-the-rai-81482984125891837.html"
+  },
+  {
+    "id": "80371554067678413",
+    "date": "2023-02-17",
+    "subject": "Cantonese Storytelling tomorrow (18th Feb): A Story about the Field Mouse",
+    "status": "sent",
+    "file": "2023-02-17-cantonese-storytelling-tomorrow-18th-feb-a-story-about-the-f-80371554067678413.html"
+  },
+  {
+    "id": "79484080476915593",
+    "date": "2023-02-17",
+    "subject": "Cantonese in Ireland Newsletter - February ♥️🌹💋",
+    "status": "sent",
+    "file": "2023-02-17-cantonese-in-ireland-newsletter-february-79484080476915593.html"
+  },
+  {
+    "id": "78936351630689367",
+    "date": "2023-02-01",
+    "subject": "Cantonese Storytelling on this Saturday 4 Feb: the Story of Lantern Festival",
+    "status": "sent",
+    "file": "2023-02-01-cantonese-storytelling-on-this-saturday-4-feb-the-story-of-l-78936351630689367.html"
+  },
+  {
+    "id": "77396671741298589",
+    "date": "2023-01-18",
+    "subject": "Happy Lunar New Year 🧧🧨🥟",
+    "status": "sent",
+    "file": "2023-01-18-happy-lunar-new-year-77396671741298589.html"
+  },
+  {
+    "id": "76574360621549302",
+    "date": "2023-01-09",
+    "subject": "Cantonese in Ireland Newsletter - January 🧧🧨🥟",
+    "status": "sent",
+    "file": "2023-01-09-cantonese-in-ireland-newsletter-january-76574360621549302.html"
+  },
+  {
+    "id": "76299760199272256",
+    "date": "2023-01-03",
+    "subject": "The First Cantonese Storytelling in 2023: this Saturday 7 Jan",
+    "status": "sent",
+    "file": "2023-01-03-the-first-cantonese-storytelling-in-2023-this-saturday-7-jan-76299760199272256.html"
+  },
+  {
+    "id": "75817782987458294",
+    "date": "2022-12-29",
+    "subject": "Cantonese Stories on Saturdays NOTES & Upcoming Online Storytelling (31 Dec)",
+    "status": "sent",
+    "file": "2022-12-29-cantonese-stories-on-saturdays-notes-upcoming-online-storyte-75817782987458294.html"
+  },
+  {
+    "id": "73310091086923068",
+    "date": "2022-12-23",
+    "subject": "Our Achievements in 2022 & Merry Christmas! 🎄🎁",
+    "status": "sent",
+    "file": "2022-12-23-our-achievements-in-2022-merry-christmas-73310091086923068.html"
+  },
+  {
+    "id": "74394759836206820",
+    "date": "2022-12-13",
+    "subject": "Cantonese Stories on Saturdays NOTES & Upcoming Online Storytelling",
+    "status": "sent",
+    "file": "2022-12-13-cantonese-stories-on-saturdays-notes-upcoming-online-storyte-74394759836206820.html"
+  },
+  {
+    "id": "72589756593080007",
+    "date": "2022-12-01",
+    "subject": "Cantonese in Ireland Newsletter - December 🎄",
+    "status": "sent",
+    "file": "2022-12-01-cantonese-in-ireland-newsletter-december-72589756593080007.html"
+  },
+  {
+    "id": "72235310174439154",
+    "date": "2022-11-21",
+    "subject": "FREE Irish Class! We need you to vote! 😲",
+    "status": "sent",
+    "file": "2022-11-21-free-irish-class-we-need-you-to-vote-72235310174439154.html"
+  },
+  {
+    "id": "71823863472719111",
+    "date": "2022-11-15",
+    "subject": "Cantonese Stories on Saturdays NOTES & Upcoming Online Storytelling",
+    "status": "sent",
+    "file": "2022-11-15-cantonese-stories-on-saturdays-notes-upcoming-online-storyte-71823863472719111.html"
+  },
+  {
+    "id": "70648719371928903",
+    "date": "2022-11-02",
+    "subject": "Cantonese stories on Saturdays: Vegetable and Pork Bun  週六廣東話故事時間︰菜肉包",
+    "status": "sent",
+    "file": "2022-11-02-cantonese-stories-on-saturdays-vegetable-and-pork-bun-週六廣東話故-70648719371928903.html"
+  },
+  {
+    "id": "70095927754360799",
+    "date": "2022-10-27",
+    "subject": "Cantonese stories on Saturdays: Let's Get Some Mung Beans, Mama  週六廣東話故事時間︰媽媽，買綠豆",
+    "status": "sent",
+    "file": "2022-10-27-cantonese-stories-on-saturdays-lets-get-some-mung-beans-mama-70095927754360799.html"
+  },
+  {
+    "id": "68302407556138790",
+    "date": "2022-10-26",
+    "subject": "Cantonese in Ireland Newsletter - November 🤗",
+    "status": "sent",
+    "file": "2022-10-26-cantonese-in-ireland-newsletter-november-68302407556138790.html"
+  },
+  {
+    "id": "69282407837074447",
+    "date": "2022-10-18",
+    "subject": "Cantonese Stories on Saturdays NOTES (15 Oct 2022)",
+    "status": "sent",
+    "file": "2022-10-18-cantonese-stories-on-saturdays-notes-15-oct-2022-69282407837074447.html"
+  },
+  {
+    "id": "68699751937213789",
+    "date": "2022-10-11",
+    "subject": "Cantonese stories on Saturdays: Guess How Much I Love You 週六廣東話故事時間︰猜猜我有多愛你",
+    "status": "sent",
+    "file": "2022-10-11-cantonese-stories-on-saturdays-guess-how-much-i-love-you-週六廣-68699751937213789.html"
+  },
+  {
+    "id": "67951895210100511",
+    "date": "2022-10-04",
+    "subject": "Cantonese in Ireland Newsletter - October 🍁",
+    "status": "sent",
+    "file": "2022-10-04-cantonese-in-ireland-newsletter-october-67951895210100511.html"
+  },
+  {
+    "id": "67974092252251416",
+    "date": "2022-10-03",
+    "subject": "Cantonese Stories on Saturdays NOTES",
+    "status": "sent",
+    "file": "2022-10-03-cantonese-stories-on-saturdays-notes-67974092252251416.html"
+  },
+  {
+    "id": "67471932615820961",
+    "date": "2022-09-28",
+    "subject": "Cantonese stories on Saturdays: Double Ninth Festival 週六廣東話故事時間︰重陽節",
+    "status": "sent",
+    "file": "2022-09-28-cantonese-stories-on-saturdays-double-ninth-festival-週六廣東話故事-67471932615820961.html"
+  },
+  {
+    "id": "66492996941513822",
+    "date": "2022-09-17",
+    "subject": "Cantonese Stories on Saturdays NOTES",
+    "status": "sent",
+    "file": "2022-09-17-cantonese-stories-on-saturdays-notes-66492996941513822.html"
+  },
+  {
+    "id": "65843487694653030",
+    "date": "2022-09-12",
+    "subject": "Cantonese story-telling is back on 17 Sept!",
+    "status": "sent",
+    "file": "2022-09-12-cantonese-story-telling-is-back-on-17-sept-65843487694653030.html"
+  },
+  {
+    "id": "65656294458001322",
+    "date": "2022-09-09",
+    "subject": "Cantonese in Ireland Newsletter - September",
+    "status": "sent",
+    "file": "2022-09-09-cantonese-in-ireland-newsletter-september-65656294458001322.html"
+  },
+  {
+    "id": "63433156570645974",
+    "date": "2022-08-16",
+    "subject": "Mid-Autumn Lantern Making Workshop and more!",
+    "status": "sent",
+    "file": "2022-08-16-mid-autumn-lantern-making-workshop-and-more-63433156570645974.html"
+  }
+]
