@@ -6,4 +6,4 @@ Open [`index.html`](index.html) for the full list. Each newsletter is in [`newsl
 
 Some images had already been deleted from MailerLite before this archive was made. Those images were removed from the pages.
 
-To browse it as a website, enable GitHub Pages for this repository (**Settings → Pages → Deploy from branch `main`, folder `/`**).
+Browse it online at https://cantonese-ireland.github.io/newsletters/
