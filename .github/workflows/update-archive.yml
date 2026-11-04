@@ -2,7 +2,7 @@ name: Update newsletter archive
 
 on:
   schedule:
-    - cron: "0 6 * * *" # every day at 06:00 UTC
+    - cron: "0 6 * * 1" # every Monday at 06:00 UTC
   workflow_dispatch: # allows running it by hand from the Actions tab
 
 permissions:

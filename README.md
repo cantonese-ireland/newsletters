@@ -10,7 +10,7 @@ Browse it online at https://cantonese-ireland.github.io/newsletters/
 
 ## Automatic updates
 
-A GitHub Action ([`.github/workflows/update-archive.yml`](.github/workflows/update-archive.yml)) runs every day at 06:00 UTC. It asks MailerLite for any newsletters sent since the last run, adds them to the archive and pushes the change, and then GitHub Pages republishes the site. Newsletters already in the archive are never changed or removed, even if they're deleted from MailerLite later.
+A GitHub Action ([`.github/workflows/update-archive.yml`](.github/workflows/update-archive.yml)) runs every Monday at 06:00 UTC. It asks MailerLite for any newsletters sent since the last run, adds them to the archive and pushes the change, and then GitHub Pages republishes the site. Newsletters already in the archive are never changed or removed, even if they're deleted from MailerLite later.
 
 It needs a repository secret named `MAILERLITE_TOKEN` holding a MailerLite API token (**Settings → Secrets and variables → Actions**). To run it straight away, open the **Actions** tab, choose **Update newsletter archive** and click **Run workflow**.
 
