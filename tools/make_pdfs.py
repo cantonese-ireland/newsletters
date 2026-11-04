@@ -5,7 +5,8 @@ Writes pdf/<same name as the page>.pdf for each entry in newsletters.json,
 then rewrites index.html so each newsletter links to its PDF.
 
 Needs Google Chrome or Chromium (set CHROME_BIN to point at it if it isn't
-found automatically). Uses only the Python standard library otherwise.
+found automatically), and Ghostscript (gs) to compress the PDFs. Uses only
+the Python standard library otherwise.
 """
 
 import json
@@ -45,15 +46,31 @@ def render(chrome, page, pdf):
     head_end = html.lower().find("</head>")
     html = html[:head_end] + PRINT_STYLE + html[head_end:] if head_end != -1 else PRINT_STYLE + html
     tmp = page.with_name(f".print-{page.name}")
+    raw = pdf.with_name(f".raw-{pdf.name}")
     tmp.write_text(html, encoding="utf-8")
     try:
         subprocess.run(
             [chrome, "--headless=new", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",
-             "--virtual-time-budget=10000", f"--print-to-pdf={pdf}", tmp.as_uri()],
+             "--virtual-time-budget=10000", f"--print-to-pdf={raw}", tmp.as_uri()],
             check=True, capture_output=True, timeout=180,
         )
+        compress(raw, pdf)
     finally:
         tmp.unlink(missing_ok=True)
+        raw.unlink(missing_ok=True)
+
+
+def compress(raw, pdf):
+    """Shrink images to 150 dpi with Ghostscript; Chrome embeds them at full size (often 30x bigger)."""
+    gs = shutil.which("gs")
+    if not gs:
+        print("    Ghostscript not found, saving uncompressed PDF")
+        raw.replace(pdf)
+        return
+    subprocess.run(
+        [gs, "-q", "-sDEVICE=pdfwrite", "-dPDFSETTINGS=/ebook", "-dNOPAUSE", "-dBATCH", "-o", str(pdf), str(raw)],
+        check=True, capture_output=True, timeout=300,
+    )
 
 
 def main():
