@@ -31,6 +31,12 @@ jobs:
       - name: Add them to the archive
         run: python3 tools/build_archive.py --export "$RUNNER_TEMP/export"
 
+      - name: Install Chinese and emoji fonts for the PDFs
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-color-emoji
+
+      - name: Make PDFs of newsletters that don't have one yet
+        run: python3 tools/make_pdfs.py
+
       - name: Commit and publish
         env:
           GH_TOKEN: ${{ github.token }}

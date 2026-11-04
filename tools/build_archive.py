@@ -227,10 +227,15 @@ def localise(page, store):
 
 
 def build_index(entries):
+    def pdf_link(e):
+        pdf = Path(e["file"]).with_suffix(".pdf").name
+        return f' <a class="pdf" href="pdf/{html.escape(pdf)}">PDF</a>' if (ARCHIVE / "pdf" / pdf).exists() else ""
+
     rows = "\n".join(
         f'    <li><time>{html.escape(e["date"] or "")}</time> '
         f'<a href="newsletters/{html.escape(e["file"])}">{html.escape(e["subject"])}</a>'
         + (f' <span class="tag">{html.escape(e["status"])}</span>' if e["status"] != "sent" else "")
+        + pdf_link(e)
         + "</li>"
         for e in entries
     )
@@ -247,6 +252,7 @@ def build_index(entries):
   ul {{ list-style: none; padding: 0; }}
   li {{ padding: .5rem 0; border-bottom: 1px solid #8884; display: flex; gap: 1rem; align-items: baseline; }}
   time {{ font-variant-numeric: tabular-nums; opacity: .7; white-space: nowrap; }}
+  .pdf {{ margin-left: auto; font-size: .85rem; white-space: nowrap; }}
   .tag {{ font-size: .75rem; opacity: .7; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; }}
 </style>
 </head>
